@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=khouloud-fourati&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
 
 ## About Me
 
@@ -13,7 +12,6 @@
 💻 Passionate about building **intelligent systems, scalable web apps, and predictive models**  
 🧠 Strong interest in **deep learning, anomaly detection, computer vision, and LLM-based systems**
 
----
 
 ##  Technical Skills
 
@@ -33,7 +31,6 @@
 ### Databases
 - PostgreSQL, SQL Server, MongoDB, MariaDB
 
----
 
 ## Let's Connect
 
@@ -41,6 +38,5 @@
 
 📧 Email: fouratikhouloud971@gmail.com
 
----
 
 ⭐ *Always learning. Always building. Always improving.*
