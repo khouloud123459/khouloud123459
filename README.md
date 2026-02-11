@@ -35,19 +35,10 @@
 
 ---
 
-## 🧠 Current Focus
-
-- Advanced Machine Learning  
-- LLM + RAG systems  
-- AI-powered dashboards  
-- Scalable backend architectures  
-
----
-
-
-## 📫 Let's Connect
+## Let's Connect
 
 💼 LinkedIn: https://github.com/khouloud123459 
+
 📧 Email: fouratikhouloud971@gmail.com
 
 ---
